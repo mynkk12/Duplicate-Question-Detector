@@ -1,5 +1,8 @@
 QuoraMirror — Duplicate Question Detector
 
+<img width="1039" height="527" alt="image" src="https://github.com/user-attachments/assets/67db81f1-3c6d-4b33-b440-eec80c612c86" />
+
+
 An NLP-powered web app that detects whether two questions are semantically identical, built on the Quora Question Pairs dataset.
 
 
