@@ -1,4 +1,4 @@
-QuoraMirror — Duplicate Question Detector
+Duplicate Question Detector
 
 <img width="1039" height="527" alt="image" src="https://github.com/user-attachments/assets/67db81f1-3c6d-4b33-b440-eec80c612c86" />
 
